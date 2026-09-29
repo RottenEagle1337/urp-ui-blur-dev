@@ -1,0 +1,4 @@
+[submodule "Packages/com.rotteneagle.urp-ui-blur"]
+	path = Packages/com.rotteneagle.urp-ui-blur
+	url = https://github.com/RottenEagle1337/urp-ui-blur.git
+	branch = main

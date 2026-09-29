@@ -1,0 +1,15 @@
+# Unity generated
+/Library/
+/Temp/
+/Logs/
+/UserSettings/
+/obj/
+/Build/
+/Builds/
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+.vs/
+.vscode/
+
